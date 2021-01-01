@@ -2,14 +2,18 @@
   "packages": [
     "packages/*"
   ],
-  "version": "0.0.3",
+  "version": "0.0.4",
   "command": {
     "create": {
       "license": "MIT"
     },
     "bootstrap": {
-      "npmClientArgs": ["--no-package-lock"],
-      "yarnClientArgs": ["--no-yarn-lock"],
+      "npmClientArgs": [
+        "--no-package-lock"
+      ],
+      "yarnClientArgs": [
+        "--no-yarn-lock"
+      ],
       "forceLocal": true
     },
     "publish": {
