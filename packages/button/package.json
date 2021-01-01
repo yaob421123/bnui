@@ -1,6 +1,6 @@
 {
   "name": "@bnui/button",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "测试组件",
   "main": "src/index.js",
   "publishConfig": {
@@ -19,7 +19,7 @@
     "react-dom": "^17.0.1"
   },
   "dependencies": {
-    "@bnui/button": "*"
+    "@bnui/button": "^0.0.11"
   },
   "gitHead": "1eda6cd9a54d409570c3b29a647502149770d85d"
 }
