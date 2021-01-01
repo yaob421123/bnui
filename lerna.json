@@ -15,10 +15,6 @@
         "--no-yarn-lock"
       ],
       "forceLocal": true
-    },
-    "publish": {
-      "conventionalCommits": true,
-      "createRelease": "github"
     }
   }
 }
