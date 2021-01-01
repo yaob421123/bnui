@@ -18,5 +18,8 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
-  "gitHead": "520eb01dd415743e4dec6d2d1c8a762f3500769d"
+  "dependencies": {
+    "@bnui/button": "*"
+  },
+  "gitHead": "1eda6cd9a54d409570c3b29a647502149770d85d"
 }
