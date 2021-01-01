@@ -1,6 +1,6 @@
 {
   "name": "@bnui/button",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "测试组件",
   "main": "src/index.js",
   "publishConfig": {
