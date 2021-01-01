@@ -11,12 +11,12 @@
     "button"
   ],
   "author": "uub",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
-  "gitHead": "bfed82c9ec486028ffabd44f4187678a2d87f7f3"
+  "gitHead": "842b394186b28a565a24a20c52f8346b74fd3b1c"
 }
