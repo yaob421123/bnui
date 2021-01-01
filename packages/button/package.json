@@ -3,6 +3,10 @@
   "version": "0.0.11",
   "description": "测试组件",
   "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yaob421123/bnui.git"
+  },
   "publishConfig": {
     "access": "public"
   },
@@ -17,9 +21,5 @@
     "@types/react-dom": "^17.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
-  },
-  "dependencies": {
-    "@bnui/button": "^0.0.11"
-  },
-  "gitHead": "1eda6cd9a54d409570c3b29a647502149770d85d"
+  }
 }
