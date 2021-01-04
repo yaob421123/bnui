@@ -1,6 +1,6 @@
 {
   "name": "@bnui/button",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "description": "测试组件",
   "main": "lib/cjs/index.js",
   "module": "lib/esm/index.js",
