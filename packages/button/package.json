@@ -1,8 +1,12 @@
 {
   "name": "@bnui/button",
-  "version": "0.0.2",
+  "version": "0.0.12",
   "description": "测试组件",
   "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yaob421123/bnui.git"
+  },
   "publishConfig": {
     "access": "public"
   },
@@ -11,7 +15,7 @@
     "button"
   ],
   "author": "uub",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
