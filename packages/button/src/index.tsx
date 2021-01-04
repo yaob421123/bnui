@@ -1,6 +1,6 @@
 const Button = (props: any) => {
   return (
-    <div>button35: {props.str}</div>
+    <div>button2: {props.str}</div>
   )
 }
 
