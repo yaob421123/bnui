@@ -1,6 +1,12 @@
 {
   "name": "bnui",
   "private": true,
+  "scripts": {
+    "t:esm": "lerna exec --scope @bnui/* -- tsbb types --outDir lib/esm --target ESNEXT",
+    "t:cjs": "lerna exec --scope @bnui/* -- tsbb types --outDir lib/cjs --target ESNEXT",
+    "watch": "lerna exec --scope @bnui/* -- tsbb watch --target react",
+    "clean": "lerna clean"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/yaob421123/bnui.git"
@@ -9,5 +15,8 @@
     "lerna": "^3.22.1"
   },
   "license": "MIT",
-  "author": "uub"
+  "author": "uub",
+  "dependencies": {
+    "tsbb": "^1.7.9"
+  }
 }
